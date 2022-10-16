@@ -1,0 +1,7 @@
+database:
+  type: "mongodb"
+  conn: "mongodb://127.0.0.1:27017"
+
+apiserver:
+  endpoint: "localhost:8181"
+  tls_endpoint: "localhost:9191"
